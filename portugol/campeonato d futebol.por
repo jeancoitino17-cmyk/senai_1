@@ -16,5 +16,6 @@ programa {
     // apresentação dos resultados - saida
     // escreva("seu time tem " + pontos + "pontos")
     escreva(time + ": " + pontos)
+    gremio
   }
 }
